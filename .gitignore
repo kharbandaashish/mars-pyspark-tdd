@@ -1,0 +1,5 @@
+# environment and vs code settings
+__pycache__/*
+.vscode/*
+env/*
+.pytest_cache/*
